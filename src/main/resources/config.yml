@@ -1,0 +1,6 @@
+MessagePrefix: "&7&r&b&38b8t&r&aChat&r&7&r"
+PreventLinks: true #Uses a list of all TLDs
+#How long before a player can chat again (In seconds)
+Cooldown: 3
+#Blocked words
+Blocked: [ ]

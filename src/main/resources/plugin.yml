@@ -1,0 +1,15 @@
+name: 8b8tChatShit
+version: '${project.version}'
+main: me.txmc.chatshit.Main
+authors: [ 254n_m ]
+description: All kinds of chat bullshit for 8b8t
+commands:
+  ignore:
+  msg:
+    aliases: [message, whisper, tell, w]
+  reply:
+    aliases: [r]
+  togglechat:
+  unignore:
+
+
